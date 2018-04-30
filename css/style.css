@@ -1,0 +1,15 @@
+html, body
+{
+  height: 100%;
+}
+
+ul > li
+{
+  padding: 5px;
+  color: white;
+}
+.text-center > h1
+{
+  color: white;
+  margin-top: 10px;
+}
